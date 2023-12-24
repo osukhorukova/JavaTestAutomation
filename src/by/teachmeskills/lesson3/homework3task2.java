@@ -3,8 +3,6 @@ package by.teachmeskills.lesson3;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import static java.lang.Math.random;
-
 //This program shows minimum, maximum and average values of the array. Meanwhile, the array has
 // the size that you enter and its values are generated randomly.
 
