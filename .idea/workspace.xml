@@ -6,6 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="f883f93d-7b18-432d-8687-79e266325f61" name="Changes" comment="Java Test Automation Course Study-Cases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "osukhorukova"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3394cbce-2d62-42aa-a216-924e8fc4ecfb" />
+        <option name="url" value="https://github.com/osukhorukova/JavaTestAutomation.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -33,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.homeWork2Task10.executor": "Run",
     "Application.homework1.executor": "Run",
     "Application.homework2task1.executor": "Run",
     "Application.homework2task10.executor": "Run",
@@ -89,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703362088615</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1703437114504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703437114504</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1703437210785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703437210785</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

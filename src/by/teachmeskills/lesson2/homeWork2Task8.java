@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // This program shows a sum of numbers from 1 to X where X is a number you enter
 
-public class homework2task8 {
+public class homeWork2Task8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number");

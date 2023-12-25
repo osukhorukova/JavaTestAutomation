@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // This program will define a color by the number you enter (numbers will be chosen according to the rainbow)
 
-public class homework2task5 {
+public class homeWork2Task5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number from 1 to 7");
