@@ -7,10 +7,8 @@ public class homeWork2Task9 {
     public static void main(String[] args) {
         int numb = 7;
         while (numb < 99) {
-            if (numb % 7 == 0) {
                 System.out.println(numb);
-            }
-            numb++;
+            numb += 7;
         }
     }
 }
