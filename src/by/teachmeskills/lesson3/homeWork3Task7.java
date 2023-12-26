@@ -2,6 +2,7 @@ package by.teachmeskills.lesson3;
 
 import java.util.Arrays;
 
+// This program sorts an array using the "bubble" method
 public class homeWork3Task7 {
     public static void main(String[] args) {
         int[] array = new int[]{5, 4, 3, 2, 1};
