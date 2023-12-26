@@ -13,30 +13,33 @@ public class homeWork3Task4 {
     public static void main(String[] args) {
         Random random = new Random();
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a number from 6 to 10");
-        int n = scanner.nextInt();
-        if (n > 5 && n <= 10) {
-            int[] array = new int[n];
-            for (int i = 0; i < array.length; i++) {
-                array[i] = random.nextInt();
-            }
-            System.out.println(Arrays.toString(array));
-            if (n % 2 == 0) {
-                int[] evenarray = new int[n / 2];
-                for (int i = 0; i < array.length; i += 2) {
-                    evenarray[i / 2] = array[i];
+        int n;
+        do {
+            System.out.println("Enter a number from 6 to 10");
+            n = scanner.nextInt();
+            if (n > 5 && n <= 10) {
+                int[] array = new int[n];
+                for (int i = 0; i < array.length; i++) {
+                    array[i] = random.nextInt();
                 }
-                System.out.println(Arrays.toString(evenarray));
+                System.out.println(Arrays.toString(array));
+                if (n % 2 == 0) {
+                    int[] evenarray = new int[n / 2];
+                    for (int i = 0; i < array.length; i += 2) {
+                        evenarray[i / 2] = array[i];
+                    }
+                    System.out.println(Arrays.toString(evenarray));
+                } else {
+                    int[] evenarray = new int[(n / 2 + 1)];
+                    for (int i = 0; i < array.length; i += 2) {
+                        evenarray[i / 2] = array[i];
+                    }
+                    System.out.println(Arrays.toString(evenarray));
+                }
             } else {
-                int[] evenarray = new int[(n / 2 + 1)];
-                for (int i = 0; i < array.length; i += 2) {
-                    evenarray[i / 2] = array[i];
-                }
-                System.out.println(Arrays.toString(evenarray));
+                System.out.println("The number you entered lays outside the mentioned range. Please, try one more time");
             }
-        } else {
-            System.out.println("The number you entered lays outside the mentioned range");
-        }
+        } while (n <= 5 || n > 10);
     }
 }
 
