@@ -6,17 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f883f93d-7b18-432d-8687-79e266325f61" name="Changes" comment="Java Test Automation Course Study-Cases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homework2task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson2/homeWork2Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homework3task0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homeWork3Task0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homework3task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homeWork3Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homework3task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homeWork3Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homework3task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homeWork3Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +52,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.homeWork2Task10.executor": "Run",
+    "Application.homeWork2Task9.executor": "Run",
+    "Application.homeWork3Task0.executor": "Run",
+    "Application.homeWork3Task1.executor": "Run",
+    "Application.homeWork3Task2.executor": "Run",
+    "Application.homeWork3Task3.executor": "Run",
+    "Application.homeWork3Task4.executor": "Run",
     "Application.homework1.executor": "Run",
     "Application.homework2task1.executor": "Run",
     "Application.homework2task10.executor": "Run",
@@ -131,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703437210785</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1703519934922</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703519934922</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1703520085827</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703520085827</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -6,7 +6,7 @@ import java.util.Scanner;
 //This program shows minimum, maximum and average values of the array. Meanwhile, the array has
 // the size that you enter and its values are generated randomly.
 
-public class homework3task2 {
+public class homeWork3Task2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the size of the array");
