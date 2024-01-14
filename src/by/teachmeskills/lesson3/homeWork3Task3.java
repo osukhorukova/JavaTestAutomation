@@ -18,17 +18,17 @@ public class homeWork3Task3 {
             array2[i] = random.nextInt();
         }
         System.out.println("Array 2: " + Arrays.toString(array2));
-        int n = array1.length;
+        int length = array1.length;
         int sum1 = 0;
         int sum2 = 0;
-        for (int j = 0; j < n; j++) {
+        for (int j = 0; j < length; j++) {
             sum1 += array1[j];
         }
-        int avg1 = sum1 / n;
-        for (int j = 0; j < n; j++) {
+        float avg1 = sum1 / length;
+        for (int j = 0; j < length; j++) {
             sum2 += array2[j];
         }
-        int avg2 = sum2 / n;
+        float avg2 = sum2 / length;
         if (avg1 > avg2) {
             System.out.println("Average value of array 1 is greater than average value of array 2");
         } else if (avg2 > avg1) {

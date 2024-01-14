@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f883f93d-7b18-432d-8687-79e266325f61" name="Changes" comment="Java Test Automation Course Study-Cases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homeWork3Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homeWork3Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homeWork3Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson3/homeWork3Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "osukhorukova"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;osukhorukova&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -36,9 +38,9 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2Zwwc2ZBNDRBVkhJst0Ny4MusYA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,6 +49,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClassWork.executor": "Run",
+    "Application.HomeWork4Task1.executor": "Run",
+    "Application.Practice1.executor": "Run",
+    "Application.Practice2.executor": "Run",
+    "Application.classPractice.executor": "Run",
+    "Application.classPractice2.executor": "Run",
+    "Application.classPractice3.executor": "Run",
+    "Application.classPractice4.executor": "Run",
+    "Application.classWork.executor": "Run",
     "Application.homeWork2Task10.executor": "Run",
     "Application.homeWork2Task9.executor": "Run",
     "Application.homeWork3Task0.executor": "Run",
@@ -169,11 +180,38 @@
       <option name="project" value="LOCAL" />
       <updated>1703605166021</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1703606820270</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703606820270</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1703606863378</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703606863378</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Test Automation Course Study-Cases" />
     <option name="LAST_COMMIT_MESSAGE" value="Java Test Automation Course Study-Cases" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/teachmeskills/lesson4/classPractice2.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

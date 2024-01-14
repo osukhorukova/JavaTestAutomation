@@ -18,14 +18,13 @@ public class homeWork3Task2 {
         }
         double min = array[0];
         double max = array[0];
-        double average;
         double sum = 0;
         for (int j = 0; j < n; j++) {
             min = Math.min(min, array[j]);
             max = Math.max(max, array[j]);
             sum += array[j];
         }
-        average = sum / n;
+        double average = sum / n;
         System.out.println(Arrays.toString(array));
         System.out.println(min + " is the minimum value");
         System.out.println(max + " is the maximum value");
