@@ -7,27 +7,32 @@ package by.teachmeskills.lesson6;
 public class CreditCard {
     String accountNumber;
     int balance;
-    int currentBalance;
-    int moneyToAdd;
-    int moneyToWithdraw;
 
     CreditCard(String accountNumber, int initialBalance) {
         this.accountNumber = accountNumber;
         this.balance = initialBalance;
     }
+
     int addMoney(int moneyToAdd) {
         balance += moneyToAdd;
         return balance;
     }
+
     int withdrawMoney(int moneyToWithdraw) {
-        balance -= moneyToWithdraw;
+        if (moneyToWithdraw > balance) {
+            System.out.println("You exceeded the current balance on your card. Your current balance: " + balance);
+        } else {
+            balance -= moneyToWithdraw;
+        }
         return balance;
+
     }
 
-    int currentInformationABoutTheCard(){
+    int currentInformationABoutTheCard() {
         return balance;
     }
 
 
 }
+
 

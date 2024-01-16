@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f883f93d-7b18-432d-8687-79e266325f61" name="Changes" comment="Java Test Automation Course Study-Cases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson7/classWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson7/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson6/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson6/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmeskills/lesson6/HomeWork6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmeskills/lesson6/HomeWork6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,53 +47,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClassWork.executor": "Run",
-    "Application.HomeWork4Task0.executor": "Run",
-    "Application.HomeWork4Task1.executor": "Run",
-    "Application.HomeWork6.executor": "Run",
-    "Application.HomeWork7Task1.executor": "Run",
-    "Application.Practice1.executor": "Run",
-    "Application.Practice2.executor": "Run",
-    "Application.classPractice.executor": "Run",
-    "Application.classPractice2.executor": "Run",
-    "Application.classPractice3.executor": "Run",
-    "Application.classPractice4.executor": "Run",
-    "Application.classWork.executor": "Run",
-    "Application.homeWork2Task10.executor": "Run",
-    "Application.homeWork2Task9.executor": "Run",
-    "Application.homeWork3Task0.executor": "Run",
-    "Application.homeWork3Task1.executor": "Run",
-    "Application.homeWork3Task2.executor": "Run",
-    "Application.homeWork3Task3.executor": "Run",
-    "Application.homeWork3Task4.executor": "Run",
-    "Application.homeWork3Task5.executor": "Run",
-    "Application.homeWork3Task6.executor": "Run",
-    "Application.homeWork3Task7.executor": "Run",
-    "Application.homework1.executor": "Run",
-    "Application.homework2task1.executor": "Run",
-    "Application.homework2task10.executor": "Run",
-    "Application.homework2task11.executor": "Run",
-    "Application.homework2task2.executor": "Run",
-    "Application.homework2task3.executor": "Run",
-    "Application.homework2task4.executor": "Run",
-    "Application.homework2task5.executor": "Run",
-    "Application.homework2task6.executor": "Run",
-    "Application.homework2task7.executor": "Run",
-    "Application.homework2task8.executor": "Run",
-    "Application.homework2task9.executor": "Run",
-    "Application.homework3task0.executor": "Run",
-    "Application.homework3task1.executor": "Run",
-    "Application.homework3task2.executor": "Run",
-    "Application.homework3task3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClassWork.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4Task0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork7Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.classPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.classPractice2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.classPractice3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.classPractice4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.classWork.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork2Task10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork2Task9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3Task0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3Task7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework3task0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework3task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework3task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework3task3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -222,7 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705244556873</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1705256141716</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705256141716</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1705256146464</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705256146464</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
