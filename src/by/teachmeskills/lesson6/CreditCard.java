@@ -12,12 +12,10 @@ public class CreditCard {
         this.accountNumber = accountNumber;
         this.balance = initialBalance;
     }
-
     int addMoney(int moneyToAdd) {
         balance += moneyToAdd;
         return balance;
     }
-
     int withdrawMoney(int moneyToWithdraw) {
         if (moneyToWithdraw > balance) {
             System.out.println("You exceeded the current balance on your card. Your current balance: " + balance);
@@ -25,15 +23,11 @@ public class CreditCard {
             balance -= moneyToWithdraw;
         }
         return balance;
-
     }
-
     int currentInformationABoutTheCard() {
         System.out.println("Your current balance: " + balance);
         return balance;
     }
-
-
 }
 
 

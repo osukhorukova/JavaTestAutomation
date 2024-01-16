@@ -5,9 +5,9 @@ package by.teachmeskills.lesson6;
 
 public class HomeWork6 {
     public static void main(String[] args) {
-        CreditCard card1 = new CreditCard("1111 1111 1111 1111",1000000);
-        CreditCard card2 = new CreditCard("2222 2222 2222 2222",2000000);
-        CreditCard card3 = new CreditCard("3333 3333 3333 3333",30);
+        CreditCard card1 = new CreditCard("1111 1111 1111 1111", 1000000);
+        CreditCard card2 = new CreditCard("2222 2222 2222 2222", 2000000);
+        CreditCard card3 = new CreditCard("3333 3333 3333 3333", 30);
         card1.addMoney(3000);
         card2.addMoney(10000);
         card3.withdrawMoney(700);
