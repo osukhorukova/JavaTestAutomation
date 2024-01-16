@@ -11,9 +11,9 @@ public class HomeWork6 {
         card1.addMoney(3000);
         card2.addMoney(10000);
         card3.withdrawMoney(700);
-        System.out.println();
-        System.out.println("Current balance on card1 = " + card1.currentInformationABoutTheCard());
-        System.out.println("Current balance on card2 = " + card2.currentInformationABoutTheCard());
-        System.out.println("Current balance on card3 = " + card3.currentInformationABoutTheCard());
+        System.out.println("-------------------------");
+        card1.currentInformationABoutTheCard();
+        card2.currentInformationABoutTheCard();
+        card3.currentInformationABoutTheCard();
     }
 }

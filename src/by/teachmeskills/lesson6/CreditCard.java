@@ -29,6 +29,7 @@ public class CreditCard {
     }
 
     int currentInformationABoutTheCard() {
+        System.out.println("Your current balance: " + balance);
         return balance;
     }
 
