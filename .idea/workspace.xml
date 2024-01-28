@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ClassWork.executor": "Run",
+    "Application.HomeWork10Task1.executor": "Run",
     "Application.HomeWork4Task0.executor": "Run",
     "Application.HomeWork4Task1.executor": "Run",
     "Application.HomeWork6.executor": "Run",
@@ -289,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705843335245</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1706384899601</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1706384899601</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
