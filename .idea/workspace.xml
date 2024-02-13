@@ -49,7 +49,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ClassWork.executor": "Run",
+    "Application.EvenNumbersCollection.executor": "Run",
     "Application.HomeWork10Task1.executor": "Run",
+    "Application.HomeWork11Task2.executor": "Run",
+    "Application.HomeWork12Task3.executor": "Run",
+    "Application.HomeWork12Task4.executor": "Run",
     "Application.HomeWork4Task0.executor": "Run",
     "Application.HomeWork4Task1.executor": "Run",
     "Application.HomeWork6.executor": "Run",
@@ -57,8 +61,11 @@
     "Application.HomeWork7Task2.executor": "Run",
     "Application.HomeWork7Task3.executor": "Run",
     "Application.HomeWork8Task1.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Practice1.executor": "Run",
     "Application.Practice2.executor": "Run",
+    "Application.RandomNumberCollection.executor": "Run",
+    "Application.StudentGroup.executor": "Run",
     "Application.classPractice.executor": "Run",
     "Application.classPractice2.executor": "Run",
     "Application.classPractice3.executor": "Run",
@@ -97,6 +104,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-8336523bb0d9-301ddabe" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -298,7 +312,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706384899601</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1706460315061</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1706460315061</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Java Test Automation Course Study-Cases">
+      <option name="closed" value="true" />
+      <created>1706460328635</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1706460328635</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
